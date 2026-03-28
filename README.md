@@ -101,8 +101,7 @@ Esses pontos foram fundamentais para evolução prática.
 
 ## 📈 Próximos passos (melhorias)
 
-- Separar CSS em arquivo externo
-- Melhorar SEO (meta tags duplicadas atualmente)
+- Melhorar SEO 
 - Otimizar performance
 - Adicionar backend para agendamento
 - Implementar CMS ou painel
