@@ -81,6 +81,7 @@ O projeto foi adaptado para:
 ## 📂 Estrutura
 /projeto
 ├── index.html
+├── style.css
 ├── /img
 
 
